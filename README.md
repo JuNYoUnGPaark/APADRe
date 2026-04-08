@@ -54,7 +54,6 @@ pandas==2.2.2
 scikit-learn==1.6.1
 matplotlib==3.10.0
 seaborn==0.13.2
-fvcore==0.1.5.post20221221
 ```
 To install all required packages:
 ```
@@ -63,7 +62,7 @@ pip install -r requirements.txt
 
 ## Codebase Overview
 - `model.py` - Implementation of the proposed **compute-aware Polynomial Attention Drop-in Replacement (PADRe)** architecture.
-The implementation uses PyTorch, Numpy, pandas, scikit-learn, matplotlib, seaborn, and fvcore (for FLOPs analysis).
+The implementation uses PyTorch, Numpy, pandas, scikit-learn, matplotlib, seaborn.
 
 ## Citing this Repository
 
