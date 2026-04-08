@@ -39,10 +39,12 @@ computation trade-off for wearable HAR by enabling inputadaptive compute control
 
 
 ## Dataset
-- **UCI-HAR** dataset is available at _https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones_
-- **PAMAP2** dataset is available at _https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring_
-- **MHEALTH** dataset is available at _https://archive.ics.uci.edu/dataset/319/mhealth+dataset_
-- **WISDM** dataset is available at _https://www.cis.fordham.edu/wisdm/dataset.php_
+| Dataset  | Link |
+|----------|------|
+| UCI-HAR  | _https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones_ |
+| PAMAP2   | _https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring_ |
+| MHEALTH  | _https://archive.ics.uci.edu/dataset/319/mhealth+dataset_ |
+| WISDM    | _https://www.cis.fordham.edu/wisdm/dataset.php_ |
 
 ## Requirements
 ```
