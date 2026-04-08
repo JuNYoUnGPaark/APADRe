@@ -1,7 +1,7 @@
 # Compute-Aware Shared-Block Adaptive Execution for IMU-Based Human Activity Recognition
 
 <p align="center">
-  <img src="./overall_mix.png" width="32%"/>
+  <img src="./overall_mix.png" width="85%"/>
 </p>
 
 This repository implements the methodology proposed in the paper "Compute-Aware Shared-Block Adaptive Execution for IMU-Based Human Activity Recognition".
